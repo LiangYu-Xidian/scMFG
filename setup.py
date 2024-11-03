@@ -6,9 +6,9 @@ def setup_package():
     metadata = dict(
         name='scmfg',
         version="1.0",
-        description='',
+        description='scMFG: a single-cell Multi-omics Integration Method based on Feature Grouping',
         url='https://github.com/LiangYu-Xidian/scMFG',
-        author='',
+        author='Yu',
         long_description=open('README.md').read(),
         long_description_content_type='text/markdown',  # 如果README是Markdown格式
         packages=find_packages(),
