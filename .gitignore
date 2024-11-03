@@ -1,6 +1,7 @@
 lib/*.pyc
 *.pyc
 *.ipynb_checkpoints
+*.h5ad
 lib/__pycache__
 other/
 output/
