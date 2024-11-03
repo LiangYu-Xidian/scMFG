@@ -1,0 +1,10 @@
+lib/*.pyc
+*.pyc
+*.ipynb_checkpoints
+lib/__pycache__
+other/
+output/
+build/
+dist/
+scmfg.egg-info/
+docs/_build/
