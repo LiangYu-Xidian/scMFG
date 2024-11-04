@@ -7,5 +7,6 @@ other/
 output/
 build/
 dist/
+docker/
 scmfg.egg-info/
 docs/_build/
